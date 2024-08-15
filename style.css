@@ -13,7 +13,7 @@ header {
 }
 
 
-section {
+.chamada{
     background: rgb(184, 156, 213);
     padding-bottom: 80px;
     padding-top: 80px;
@@ -46,7 +46,7 @@ img {
 }
 
 
-section{
+.categoria{
     padding-left: 20px;
     padding-right: 20px;
 }
